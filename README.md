@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eng.Khalid Abdi</h1>
 <h3 align="center">A passionate enthusiastic full stack software developer</h3>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Hospital ERP System**
 
 - 🌱 I’m currently learning **React, Project Management**
 
