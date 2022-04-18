@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eng.Khalid Abdi</h1>
 <h3 align="center">A passionate enthusiastic full stack software developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engkhallo&label=Profile%20views&color=0e75b6&style=flat" alt="engkhallo" /> </p>
+
 - 🔭 I’m currently working on **Hospital Management System**
 
 - 🌱 I’m currently learning **React, Project Management**
