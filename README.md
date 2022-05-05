@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hospital ERP System**
 
-- 🌱 I’m currently learning **React, Project Management**
+- 🌱 I’m currently learning **React, System Analysis and Design**
 
 - 💬 Ask me about **.Net Core, React, Rest API, Laravel**
 
