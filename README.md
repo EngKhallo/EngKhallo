@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eng.Khalid Abdi</h1>
 <h3 align="center">A passionate enthusiastic full stack software developer</h3>
 
-- 🔭 I’m currently working on **Hospital ERP System**
+- 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **React, System Analysis and Design**
+- 🌱 I’m currently learning **.NET and Flutter**
 
-- 💬 Ask me about **.Net Core, React, Rest API, Laravel**
+- 💬 Ask me about **.Net Core, React, Flutter,Rest API**
 
-- 📫 How to reach me **engkhalid.ict@gmail.com**
+- 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
