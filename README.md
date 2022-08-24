@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng.Khalid Abdi</h1>
-<h3 align="center">A passionate enthusiastic full stack software developer</h3>
+<h3 align="center">A passionate enthusiastic full stack software developer and Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **Mobile App Development**
 
