@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eng.Khalid Abdi</h1>
 <h3 align="center">A passionate enthusiastic full stack software developer and Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Mobile App Development || Flutter😎**
 
-- 🌱 I’m currently learning **.NET and Flutter**
+- 🌱 I’m currently learning **Software Architecture**
 
-- 💬 Ask me about **.Net Core, React, Flutter,Rest API**
+- 💬 Ask me about **Mobile App Development, Flutter, RestfulAPI, .Net Core**
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626**
 
