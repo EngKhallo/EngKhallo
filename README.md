@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Architecture**
 
-- 💬 Ask me about **Mobile App Development, Flutter, RestfulAPI, .Net Core**
+- 💬 Ask me about **.NET Core, Flutter , Next Js, React Js**
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626**
 
