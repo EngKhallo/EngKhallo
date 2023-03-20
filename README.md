@@ -15,5 +15,3 @@
 <a href="https://linkedin.com/in/khalid abdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid abdi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/~khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="~khalid" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engkhallo&show_icons=true&locale=en&layout=compact" alt="engkhallo" /></p>
