@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Abdi</h1>
-<h3 align="center">A passionate enthusiastic Full stack software developer and Mobile App Developer</h3>
+<h3 align="center">Passionately Crafting Full Stack Software and Mobile App Solutions: Empowering Innovation with Enthusiasm</h3>
 
 - 🔭 I’m currently working on **Mobile App Development || Flutter😎**
 
