@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Abdi</h1>
 <h3 align="center">Passionately Crafting Full Stack Software and Mobile App Solutions: Empowering Innovation with Enthusiasm</h3>
 
-- 🔭 I am presently engaged in Mobile Application Development using the **Flutter** framework😎**
+- 🔭 I am presently engaged in Mobile Application Development using the **Flutter** framework😎
 
 - 🌱 Currently, I am acquiring knowledge in **Software Architecture**.
 
