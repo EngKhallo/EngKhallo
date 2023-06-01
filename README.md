@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khalid Abdi</h1>
 <h3 align="center">Passionately Crafting Full Stack Software and Mobile App Solutions: Empowering Innovation with Enthusiasm</h3>
 
-- 🔭 I’m currently working on **Mobile App Development || Flutter😎**
+- 🔭 I am presently engaged in Mobile Application Development using the **Flutter** framework😎**
 
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 Currently, I am acquiring knowledge in **Software Architecture**.
 
-- 💬 Ask me about **.NET Core, Flutter, React Ts**
+- 💬 Feel free to inquire about topics such as **.NET Core, Flutter, and React TypeScript**.
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626**
 
