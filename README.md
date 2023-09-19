@@ -3,7 +3,8 @@
 
 - 🚀 Full-Stack Developer | Laravel | Docker | React | TypeScript | Flutter
   
-- 🌐 Laravel: Crafting scalable and efficient backend solutions.
+- 🌐 Laravel: Crafting scalable and efficient backend solutions
+
   
 - 🐳 Docker: Containerizing applications for seamless deployment.
   
@@ -13,7 +14,7 @@
   
 - 📱 Flutter: Building beautiful cross-platform mobile apps.
 
--🌟 Let's collaborate and create amazing software together!
+- 🌟 Let's collaborate and create amazing software together!
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626 || linkedIn: Khalid Abdi Guleid**
 
