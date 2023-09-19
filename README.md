@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I am acquiring knowledge in **Software Architecture**.
 
-- 💬 Feel free to inquire about topics such as **.NET Core, Flutter, and React TypeScript**.
+- 💬 Feel free to inquire about topics such as **Laravel, Docker, Flutter, React & TypeScript**.
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626**
 
