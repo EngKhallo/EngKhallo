@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Abdi</h1>
 <h3 align="center">Passionately Crafting Full Stack Software and Mobile App Solutions: Empowering Innovation with Enthusiasm</h3>
 
-- <h5> 🚀 Full-Stack Developer | Laravel | Docker | React | TypeScript | Flutter </h5>
+- <h5> 🚀 Full-Stack Developer | Dotnet | Docker | React | TypeScript | Flutter </h5>
   
 - 🌐 Dotnet: Crafting scalable and efficient backend solutions
 
