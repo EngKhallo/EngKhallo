@@ -3,7 +3,7 @@
 
 - <h5> 🚀 Full-Stack Developer | Laravel | Docker | React | TypeScript | Flutter </h5>
   
-- 🌐 Laravel: Crafting scalable and efficient backend solutions
+- 🌐 Dotnet: Crafting scalable and efficient backend solutions
 
   
 - 🐳 Docker: Containerizing applications for seamless deployment.
