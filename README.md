@@ -16,8 +16,7 @@
 
 - 🌟 Let's collaborate and create amazing software together!
 
-🎓 <h5> **Professional Development**: </h5>
-
+🎓**Professional Development**:
 - **MSc Data Science & Business Analytics**: Advancing skills through my Master's program.
 - **AWS Cloud Computing**: Actively preparing for AWS certifications to enhance my expertise in scalable cloud solutions.
 
