@@ -16,5 +16,7 @@
 
 - 🌟 Let's collaborate and create amazing software together!
 
-- 📫 How to reach me **engkhalid.ict@gmail.com || whatsapp: 063-3544626 || linkedIn: Khalid Abdi Guleid**
+🎓 Pursuits: Master's in Data Science and Business Analytics, expanding knowledge in cloud computing and data science.
+
+- 📫 How to reach me **engkhalid.ict@gmail.com || linkedIn: Khalid Abdi Guleid**
 
