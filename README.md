@@ -16,9 +16,9 @@
 
 - 🌟 Let's collaborate and create amazing software together!
 
-🎓 ***Professional Development***:
+🎓 <h5> **Professional Development**: </h5>
 
-- **Data Science & Business Analytics**: Advancing skills through my Master's program.
+- **MSc Data Science & Business Analytics**: Advancing skills through my Master's program.
 - **AWS Cloud Computing**: Actively preparing for AWS certifications to enhance my expertise in scalable cloud solutions.
 
 - 📫 How to reach me **engkhalid.ict@gmail.com || linkedIn: Khalid Abdi Guleid**
