@@ -20,5 +20,5 @@
 - **MSc Data Science & Business Analytics**: Advancing skills through my Master's program.
 - **AWS Cloud Computing**: Actively preparing for AWS certifications to enhance my expertise in scalable cloud solutions.
 
-- 📫 How to reach me **engkhalid.ict@gmail.com || linkedIn: Khalid Abdi Guleid**
+- 📫 How to reach me **engkhalid.ict@gmail.com || khalid@devbykhalid.com || linkedIn: Khalid Abdi Guleid**
 
